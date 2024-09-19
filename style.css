@@ -1,3 +1,10 @@
+element.style {
+    border: solid;
+ }
+ 
+ 
+
+
 body{
     background-color: red;
     text-align: center;
@@ -14,3 +21,4 @@ p {color: black;}
 .nopares {
     width: 50%
 }
+ 
