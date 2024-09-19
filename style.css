@@ -1,7 +1,16 @@
-element.style {
-    border: solid;
- }
- 
+
+ body {
+    background-color: rgba(224, 55, 26, 0.817);
+    margin: 0px
+}
+
+nav a {
+   margin-top: 5px;
+    padding: 2px;
+    font-size: 20px;
+    text-decoration: none;
+    color:rgba(204, 168, 238, 0.192)
+}
  
 
 
